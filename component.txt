@@ -1,3 +1,0 @@
-component.txt
-
-Just a placeholder file for testing Git.
